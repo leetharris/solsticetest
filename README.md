@@ -1,4 +1,4 @@
-# Soltice Programming Test by Lee Harris
+# Solstice Programming Test by Lee Harris
 
 ### Overview:
 
